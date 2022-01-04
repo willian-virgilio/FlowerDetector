@@ -1,4 +1,4 @@
-import 'package:ifruit/splashscreen.dart';
+import 'package:flowersdetector/splashscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 import 'package:flutter/material.dart';
